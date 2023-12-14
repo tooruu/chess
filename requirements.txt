@@ -1,0 +1,2 @@
+pygame # Game framework
+pywin32 # To lock window aspect ratio on Windows
